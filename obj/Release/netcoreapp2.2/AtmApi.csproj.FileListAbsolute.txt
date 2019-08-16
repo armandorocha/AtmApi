@@ -1,0 +1,14 @@
+C:\Users\Santiago Cerruti\Southworks\AtmApi\bin\Release\netcoreapp2.2\AtmApi.deps.json
+C:\Users\Santiago Cerruti\Southworks\AtmApi\bin\Release\netcoreapp2.2\AtmApi.runtimeconfig.json
+C:\Users\Santiago Cerruti\Southworks\AtmApi\bin\Release\netcoreapp2.2\AtmApi.runtimeconfig.dev.json
+C:\Users\Santiago Cerruti\Southworks\AtmApi\bin\Release\netcoreapp2.2\AtmApi.dll
+C:\Users\Santiago Cerruti\Southworks\AtmApi\bin\Release\netcoreapp2.2\AtmApi.pdb
+C:\Users\Santiago Cerruti\Southworks\AtmApi\obj\Release\netcoreapp2.2\AtmApi.csprojAssemblyReference.cache
+C:\Users\Santiago Cerruti\Southworks\AtmApi\obj\Release\netcoreapp2.2\AtmApi.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Cerruti\Southworks\AtmApi\obj\Release\netcoreapp2.2\AtmApi.RazorAssemblyInfo.cache
+C:\Users\Santiago Cerruti\Southworks\AtmApi\obj\Release\netcoreapp2.2\AtmApi.RazorAssemblyInfo.cs
+C:\Users\Santiago Cerruti\Southworks\AtmApi\obj\Release\netcoreapp2.2\AtmApi.AssemblyInfoInputs.cache
+C:\Users\Santiago Cerruti\Southworks\AtmApi\obj\Release\netcoreapp2.2\AtmApi.AssemblyInfo.cs
+C:\Users\Santiago Cerruti\Southworks\AtmApi\obj\Release\netcoreapp2.2\AtmApi.RazorTargetAssemblyInfo.cache
+C:\Users\Santiago Cerruti\Southworks\AtmApi\obj\Release\netcoreapp2.2\AtmApi.dll
+C:\Users\Santiago Cerruti\Southworks\AtmApi\obj\Release\netcoreapp2.2\AtmApi.pdb
